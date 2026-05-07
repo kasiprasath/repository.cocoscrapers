@@ -2,12 +2,13 @@
 
 CocoScrapers Module - A Kodi addon module that provides site scrapers for torrent sources.
 
-## Repository URL
+## Download
 
-```
-https://kasiprasath.github.io/repository.cocoscrapers/
-```
+**[Download CocoScrapers Repository Zip (v1.0.2)](https://github.com/kasiprasath/repository.cocoscrapers/raw/main/zips/repository.cocoscrapers/repository.cocoscrapers-1.0.2.zip)**
 
 ## Installation
 
-Download the latest repository zip from [zips/repository.cocoscrapers](https://github.com/kasiprasath/repository.cocoscrapers/tree/main/zips/repository.cocoscrapers) and install it via Kodi's "Install from zip" option.
+1. Download the repository zip using the link above
+2. In Kodi, go to **Settings → Add-ons → Install from zip file**
+3. Select the downloaded `repository.cocoscrapers-1.0.2.zip`
+4. The CocoScrapers repository will now appear under **Install from repository**
